@@ -4,4 +4,5 @@ GET http://localhost:3000/api/helloWorld?status=cool
 
 POST http://localhost:3000/api/helloWorld
 
-{"framework": "nuxtjs"}
+framework=nuxt;
+name=dima;
